@@ -14,25 +14,25 @@ const catalogo = [
     {
         id: 3,
         nombre: "Buzo",
-        img: "../media/camperon.webp",
+        img: "../media/buzos.webp",
         precio: 25000 
     },
     {
         id: 4,
         nombre: "Remera",
-        img: "../media/camperon.webp",
+        img: "../media/remeras.webp",
         precio: 5000 
     },
     {
         id: 5,
         nombre: "Pantalon",
-        img: "../media/camperon.webp",
+        img: "../media/pantalones.webp",
         precio: 10000 
     },
     {
         id: 6,
         nombre: "Bermuda",
-        img: "../media/camperon.webp",
+        img: "../media/bermu.webp",
         precio: 6000 
     },
 ]
